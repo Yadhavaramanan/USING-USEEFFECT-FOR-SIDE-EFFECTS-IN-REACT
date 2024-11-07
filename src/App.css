@@ -1,0 +1,30 @@
+.data-fetcher {
+  border: 2px solid hwb(208 48% 12%);
+  padding: 20px;
+  max-width: 600px;
+  margin: 20px auto;
+  border-radius: 10px;
+  background-color: hwb(231 72% 10%);
+}
+
+.data-fetcher h2 {
+  margin-bottom: 20px;
+  color: hwb(233 24% 10%);
+  text-align: center;
+}
+
+.data-fetcher ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.data-fetcher li {
+  background-color: #C5CAE9;
+  margin: 10px 0;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.data-fetcher li strong {
+  color: #1A237E;
+}
